@@ -1,0 +1,57 @@
+@charset "UTF-8";
+body {
+	background-color: #B2B2B2;
+	border-radius: 0px;
+	border: thin solid #F3F3F3;
+	color: #FFEB05;
+}
+body p strong {
+}
+p {
+}
+body p a {
+}
+body {
+}
+p {
+	border: thin dotted #FFEB05;
+	/* [disabled]border-collapse: collapse; */
+	/* [disabled]border-spacing: px 33px; */
+	border-radius: 3px;
+}
+th a strong {
+	color: #FFEB05;
+}
+td a strong {
+	color: #FFEB05;
+}
+tr th a {
+	color: #FFEB05;
+}
+body h1 {
+	color: #E1E3FC;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+body p a {
+	color: #FFFFFF;
+}
+body p a {
+	color: #FBFBFB;
+}
+body table {
+	border: thin solid #FFFFFF;
+	background-color: #909DC0;
+}
+body p a {
+}
+tr th img {
+	border-style: dotted;
+}
+body img {
+	border-style: dotted;
+}
+body table {
+}
+body table {
+	border: medium dotted #FFEB05;
+}
